@@ -15,3 +15,12 @@ function sub(){
     
 }
 sub()
+
+function mul(){
+    let a =30;
+    let b =10;
+    sum = a*b;
+    console.log(sum);
+    
+}
+mul()
