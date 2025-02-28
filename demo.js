@@ -16,11 +16,12 @@ function sub(){
 }
 sub()
 
-function mul(){
+function div(){
     let a =30;
     let b =10;
-    sum = a*b;
+    sum = a/b;
     console.log(sum);
     
 }
-mul()
+div()
+ 
